@@ -1,2 +1,2 @@
 # Age_Calculator
-You have to give your birth date and It will calculate your Actual Age.
+You have to give your date of birth and it will calculate your Actual Age.
